@@ -1,9 +1,37 @@
-/*erich*/
-a[href="/team/U673JG154"] img.c-avatar__image {
-  content: url(https://ih1.redbubble.net/image.286541184.7372/flat,800x800,070,f.jpg);
-}
-
-/*default case*/
+/* DEFAULT CASE */
 img.c-avatar__image {
   content: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nicolas_Cage_Deauville_2013.jpg/220px-Nicolas_Cage_Deauville_2013.jpg);
 }
+a.c-message__sender_link {
+	display: none;
+}
+span.c-message__sender:after {
+  content: "Nicolas Cage";
+}
+
+/* TEAM OVERRIDES */
+/*adam*/
+/*ben*/
+/*chase*/
+/*erich*/
+/*a[href="/team/U673JG154"] img.c-avatar__image {
+  content: url(https://ih1.redbubble.net/image.286541184.7372/flat,800x800,070,f.jpg);
+}*/
+/*greg*/
+/*justin*/
+/*kim*/
+/*matt*/
+/*nick*/
+/*paul*/
+/*peter*/
+/*adam*/
+/*adam*/
+/*adam*/
+/*adam*/
+/*adam*/
+/*adam*/
+/*adam*/
+/*adam*/
+/*adam*/
+/*adam*/
+
