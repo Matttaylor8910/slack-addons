@@ -1,0 +1,9 @@
+/*erich*/
+a[href="/team/U673JG154"] img.c-avatar__image {
+  content: url(https://ih1.redbubble.net/image.286541184.7372/flat,800x800,070,f.jpg);
+}
+
+/*default case*/
+img.c-avatar__image {
+  content: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nicolas_Cage_Deauville_2013.jpg/220px-Nicolas_Cage_Deauville_2013.jpg);
+}
