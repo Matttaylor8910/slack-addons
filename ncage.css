@@ -1,7 +1,7 @@
 /* DEFAULT CASE */
 
 /*for names/icons in the normal chat window*/
-.c-avatar__image {
+/*.c-avatar__image {
   content: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nicolas_Cage_Deauville_2013.jpg/220px-Nicolas_Cage_Deauville_2013.jpg) !important;
 }
 .c-message__sender_link {
@@ -9,10 +9,10 @@
 }
 .c-message__sender:after {
   content: "Nicolas Cage" !important;
-}
+}*/
 
 /*members list in right panel*/
-.member_preview_link.member_image {
+/*.member_preview_link.member_image {
 	background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nicolas_Cage_Deauville_2013.jpg/220px-Nicolas_Cage_Deauville_2013.jpg) !important;
 }
 .c-member__name.c-member__name--small:after {
@@ -22,7 +22,7 @@
 }
 .c-member__display-name.c-member__display-name--small {
   display: none !important;
-}
+}*/
 
 /* TEAM OVERRIDES */
 /*adam*/
